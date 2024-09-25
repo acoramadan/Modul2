@@ -7,4 +7,15 @@
     <string name="kelas">Kelas :</string>
     <string name="pindah_activity_with_object">Pindah activity with object</string>
     <string name="umur">Umur :</string>
+    <string name="buka_telephone">Buka telephone</string>
+    <string name="buka_kamera">Buka kamera</string>
+    <string name="pindah_activity_lain">pindah activity lain untuk memproses data</string>
+    <string name="apakah_tiara_intan_kencana_wijaya_cantik">Apakah tiara intan kencana wijaya cantik?</string>
+    <string name="woi_iyalah_cantik_anu">woi iyalah cantik anu</string>
+    <string name="woi_sangat_cantik">WOI SANGAT CANTIK</string>
+    <string name="gilaaaaak_cantik_banget_omaygat"><![CDATA[GILAAAAAK CANTIK BANGET OMAYGAT >///<]]></string>
+    <string name="ooow_cantik_lah_bosku">OOOW CANTIK LAH BOSKU</string>
+    <string name="silahkan_input_jawaban_anda">Silahkan input jawaban anda</string>
+    <string name="submit">Submit</string>
+    <string name="hasil">HASIL :</string>
 </resources>
